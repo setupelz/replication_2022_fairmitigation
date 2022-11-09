@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Replication archive for: Fairness considerations in
+  global mitigation investments
+message: >-
+  Please cite the corresponding publication using the
+  metadata.
+type: software
+authors:
+  - given-names: Setu
+    family-names: Pelz
+    email: pelz@iiasa.ac.at
+    affiliation: IIASA
+    orcid: 'https://orcid.org/0000-0002-3528-8679'
+identifiers:
+  - type: doi
+    value: to be confirmed
+    description: 'Science, Policy Form'
+abstract: >-
+  Replication code for: Fairness considerations in
+  Global Mitigation Investments, by Shonali Pachauri,
+  Setu Pelz, Christoph Bertram, Silvie Kreibiehl,
+  Narasimha D. Rao, Youba Sokona and Keywan Riahi,
+  (forthcoming, Science).
+keywords:
+  - replication
+license: MIT
+version: '1.0'
